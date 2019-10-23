@@ -1,2 +1,2 @@
 Python==3.7.4
-gpflow=1.5.0
+gpflow==1.5.0
