@@ -5,3 +5,6 @@ GPflow port of the first assignment of 4F13
 
 This version takes some inspiration from Damon Wischik's [Python port](https://github.com/damonjw/probml) of the course for students in the computer science department.
 
+Either click on the binder badge below, or clone this repo and spin up a notebook locally to work through the problem sheet.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/willtebbutt/4F13-GPs/a3b98f793101a8f3f0666a6bd73e1d94dcdefe82)
