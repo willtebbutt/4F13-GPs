@@ -1,1 +1,4 @@
+numpy
+matplotlib
+tensorflow==1.14
 gpflow==1.5.0
